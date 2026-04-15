@@ -1,0 +1,51 @@
+.testimonials {
+    padding: 20px; /* Add padding to the testimonials container */
+  }
+  
+  .slider {
+    overflow: hidden;
+  }
+  
+  .slider ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .slide {
+    background-color: #f9f9f9; /* Set background color for each slide */
+    border-radius: 8px; /* Add border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+    margin-bottom: 20px; /* Add margin between slides */
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .user-info img {
+    width: 50px; /* Set width for user image */
+    height: 50px; /* Set height for user image */
+    border-radius: 50%; /* Make the user image round */
+    margin-right: 10px; /* Add margin between user image and info */
+  }
+  
+  .user-info div {
+    flex-grow: 1; /* Allow info to take remaining space */
+  }
+  
+  h3 {
+    margin: 0; /* Remove margin for heading */
+  }
+  
+  span {
+    color: #666; 
+    margin: 0 3px;
+  }
+  
+  p {
+    padding: 10px;
+  }
+  
