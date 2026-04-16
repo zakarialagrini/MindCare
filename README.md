@@ -1,22 +1,42 @@
-MindCare is a responsive full-stack web application for online psychological support. It allows users to assess their mental health, track daily mood, and interact with a clean and user-friendly interface.
+# 🧠 MindCare – Online Psychological Support Platform
 
-The project is built using React.js with Vite, HTML, CSS, and JavaScript. It focuses on providing a smooth user experience with a modern design and responsive layout across all devices.
+## 📌 Project Description
+MindCare is a web application developed during a training internship (Stage). It provides an online psychological support platform where users can assess their mental health, track their daily mood, and interact through a clean and responsive interface.
 
-## 🚀 Features
+The project focuses on delivering a smooth user experience and a modern UI design.
+
+Additionally, the contact form is integrated with a third-party email API service that allows users to send messages directly via email.
+
+---
+
+## 🚀 Key Features
 - Mental health self-assessment
-- Daily mood tracking
-- Responsive UI design
-- Modern and fast React + Vite architecture
+- Daily mood tracking system
+- Responsive and modern UI
+- Contact form with email integration (API service)
+- Smooth user experience across all devices
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Technologies Used
 - React.js
 - Vite
 - HTML5
 - CSS3
 - JavaScript
+- Email API Service (Contact form integration)
+
+---
 
 ## 🌐 Live Demo
 https://mind-care-41n6.vercel.app
 
-## 📌 Purpose
-This project was developed as a personal full-stack practice project to improve skills in frontend development and UI/UX design.
+---
+
+## 📌 Backend Note
+This project uses a third-party API service for handling contact form emails instead of a custom backend server.
+
+---
+
+## 🎯 Project Goal
+This project was developed during a stage (internship) to improve skills in frontend development, API integration, and UI/UX design.
