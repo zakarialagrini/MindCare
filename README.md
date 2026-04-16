@@ -1,8 +1,22 @@
-# React + Vite
+MindCare is a responsive full-stack web application for online psychological support. It allows users to assess their mental health, track daily mood, and interact with a clean and user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project is built using React.js with Vite, HTML, CSS, and JavaScript. It focuses on providing a smooth user experience with a modern design and responsive layout across all devices.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Mental health self-assessment
+- Daily mood tracking
+- Responsive UI design
+- Modern and fast React + Vite architecture
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+
+## 🌐 Live Demo
+https://mind-care-41n6.vercel.app
+
+## 📌 Purpose
+This project was developed as a personal full-stack practice project to improve skills in frontend development and UI/UX design.
