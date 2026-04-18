@@ -40,3 +40,5 @@ This project uses a third-party API service for handling contact form emails ins
 
 ## 🎯 Project Goal
 This project was developed during a stage (internship) to improve skills in frontend development, API integration, and UI/UX design.
+
+This project demonstrates my ability to work independently during my internship and my focus on clean code and modern frontend tools like Vite and React.
