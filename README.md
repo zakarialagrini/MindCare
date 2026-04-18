@@ -30,7 +30,7 @@ Additionally, the contact form is integrated with a third-party email API servic
  🌐 Live Demo
 https://mind-care-41n6.vercel.app
 
----
+
 
  📌 Backend Note
 This project uses a third-party API service for handling contact form emails instead of a custom backend server.
